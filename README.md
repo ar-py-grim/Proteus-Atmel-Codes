@@ -16,8 +16,8 @@ C code is inside **ATMEL CODES/Name_displaying** folder and circuit inside **PRO
 
 <img width="309" height="161" alt="Screenshot 2026-03-06 102341" src="https://github.com/user-attachments/assets/1e2b1c12-277a-44a2-89f0-98262b1cb80d" />
 
+Observe the scope output as pulse width varies with time
 <img width="1372" height="880" alt="image" src="https://github.com/user-attachments/assets/da2003c3-5684-44d4-bb92-f2d6142ceafe" />
 
 C code is inside **ATMEL CODES/pwm(atmega32)** folder and circuit inside **PROTEUS/fading_led(Atmega32).pdsprj**
 
-Observe the scope output as pulse width varies with time
